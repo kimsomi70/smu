@@ -5,3 +5,9 @@
 public int a()
 {
 }
+
+,,,
+{
+ return true :
+}
+,,,
